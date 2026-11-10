@@ -3,12 +3,12 @@
 Java Automation · QA.GURU · Test Automation
 
 <p align="center">
-  `UI Testing` `API Testing` `Mobile Testing` `Manual QA`
+  <code>UI Testing</code> &nbsp;•&nbsp; <code>API Testing</code> &nbsp;•&nbsp; <code>Mobile Testing</code> &nbsp;•&nbsp; <code>Manual QA</code>
 </p>
 
 ---
 
-## 💻 О мне
+## 💡 Обо мне
 
 QA Engineer, развиваюсь в направлении автоматизации тестирования на Java.
 Изучаю и применяю современные инструменты автоматизации UI, API и Mobile-тестирования.
