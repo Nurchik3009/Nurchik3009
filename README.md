@@ -43,25 +43,25 @@ QA Engineer, развиваюсь в направлении автоматиза
 
 ### 🌐 UI Automation &nbsp;&nbsp;&nbsp;&nbsp; `Selenide · Java`
 Автоматизация веб-магазина Swag Labs: авторизация, каталог, корзина и оформление заказа.  
-👉 [Перейти к документации UI](./docs/ui/README.md)
+👉 [Перейти к документации UI](https://github.com/Nurchik3009/swag-labs-qa-automation/blob/main/docs/ui/README.md)
 
 ---
 
 ### 🔌 API Automation &nbsp;&nbsp;&nbsp;&nbsp; `Rest Assured · Java`
 Тестирование REST API сервиса клубов: CRUD, авторизация, валидация и обработка ошибок.  
-👉 [Перейти к документации API](./docs/api/README.md)
+👉 [Перейти к документации API](https://github.com/Nurchik3009/swag-labs-qa-automation/blob/main/docs/api/README.md)
 
 ---
 
 ### 📱 Mobile Automation &nbsp;&nbsp;&nbsp;&nbsp; `Appium · BrowserStack`
 Автоматизация Android-приложения Swag Labs на локальном эмуляторе и в облаке.  
-👉 [Перейти к документации Mobile](./docs/mobile/README.md)
+👉 [Перейти к документации Mobile](https://github.com/Nurchik3009/swag-labs-qa-automation/blob/main/docs/mobile/README.md)
 
 ---
 
 ### 📝 Manual Testing &nbsp;&nbsp;&nbsp;&nbsp; `Allure TestOps`
 Ручное тестирование, тест-кейсы, Test Plan и фиксация результатов выполнения.  
-👉 [Перейти к документации Manual](./docs/manual/README.md)
+👉 [Перейти к документации Manual](https://github.com/Nurchik3009/swag-labs-qa-automation/blob/main/docs/manual/README.md)
 
 ---
 
