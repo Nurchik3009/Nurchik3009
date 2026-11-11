@@ -10,15 +10,17 @@
 
 ---
 
-## 💡 Обо мне
+<h2 align="center">💡 Обо мне</h2>
 
-QA Engineer, развиваюсь в направлении автоматизации тестирования на Java.
-Изучаю и применяю современные инструменты автоматизации UI, API и Mobile-тестирования.
-Работаю с тестовой документацией, CI/CD и анализом результатов тестирования.
+<p align="center">
+  QA Engineer, развиваюсь в направлении автоматизации тестирования на Java.<br>
+  Изучаю и применяю современные инструменты автоматизации UI, API и Mobile-тестирования.<br>
+  Работаю с тестовой документацией, CI/CD и анализом результатов тестирования.
+</p>
 
 ---
 
-## 🛠 Технологический стек
+<h2 align="center">🛠 Технологический стек</h2>
 
 <p align="center">
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -33,44 +35,20 @@ QA Engineer, развиваюсь в направлении автоматиза
 
 ---
 
-<h2 align="center">🎓 Дипломный проект — Swag Labs QA Automation</h2>
+<h2 align="center">🎓 Главный проект (Диплом)</h2>
+
+<h3 align="center">
+  <a href="https://github.com/Nurchik3009/swag-labs-qa-automation">🚀 Swag Labs QA Automation</a>
+</h3>
 
 <p align="center">
-  Комплексный дипломный проект QA.GURU, объединяющий четыре направления тестирования.
+  Комплексный дипломный фреймворк QA.GURU, объединяющий UI (Selenide), API (Rest Assured), Mobile (Appium) и Manual тестирования.
+</p>
+
+<p align="center">
+  <code>UI</code> &nbsp;•&nbsp; <code>API</code> &nbsp;•&nbsp; <code>Mobile</code> &nbsp;•&nbsp; <code>Manual</code> &nbsp;•&nbsp; <code>Allure TestOps</code> &nbsp;•&nbsp; <code>Jenkins</code>
 </p>
 
 ---
-
-### 🌐 UI Automation &nbsp;&nbsp;&nbsp;&nbsp; `Selenide · Java`
-Автоматизация веб-магазина Swag Labs: авторизация, каталог, корзина и оформление заказа.  
-👉 [Перейти к проекту (UI)](https://github.com/Nurchik3009/swag-labs-qa-automation) *(документация: `./docs/ui/README.md`)*
-
----
-
-### 🔌 API Automation &nbsp;&nbsp;&nbsp;&nbsp; `Rest Assured · Java`
-Тестирование REST API сервиса клубов: CRUD, авторизация, валидация и обработка ошибок.  
-👉 [Перейти к проекту (API)](https://github.com/Nurchik3009/swag-labs-qa-automation) *(документация: `./docs/api/README.md`)*
-
----
-
-### 📱 Mobile Automation &nbsp;&nbsp;&nbsp;&nbsp; `Appium · BrowserStack`
-Автоматизация Android-приложения Swag Labs на локальном эмуляторе и в облаке.  
-👉 [Перейти к проекту (Mobile)](https://github.com/Nurchik3009/swag-labs-qa-automation) *(документация: `./docs/mobile/README.md`)*
-
----
-
-### 📝 Manual Testing &nbsp;&nbsp;&nbsp;&nbsp; `Allure TestOps`
-Ручное тестирование, тест-кейсы, Test Plan и фиксация результатов выполнения.  
-👉 [Перейти к проекту (Manual)](https://github.com/Nurchik3009/swag-labs-qa-automation) *(документация: `./docs/manual/README.md`)*
-
----
-
-<h2 align="center">📊 Инструменты проекта</h2>
-
-<p align="center">
-  <code>Allure Report</code> &nbsp;•&nbsp; <code>Allure TestOps</code> &nbsp;•&nbsp; <code>Jenkins</code> &nbsp;•&nbsp; <code>Jira</code> &nbsp;•&nbsp; <code>Telegram</code> &nbsp;•&nbsp; <code>GitHub</code>
-</p>
-
-<br>
 
 <p align="center">Разработано в рамках дипломного проекта QA.GURU | Автор: <b>Ainur Kaliakbarova</b> (@AKaliakbarova)</p>
