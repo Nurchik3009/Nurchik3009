@@ -1,25 +1,30 @@
-<h1 align="center">Привет! Я QA Engineer 👋</h1>
+<h1 align="center">Привет, я Айнур 👋</h1>
 
 <p align="center">
-  Java Automation · QA.GURU · Test Automation
+  <b>QA Engineer · Java Automation</b>
 </p>
 
 <p align="center">
-  <code>UI Testing</code> &nbsp;•&nbsp; <code>API Testing</code> &nbsp;•&nbsp; <code>Mobile Testing</code> &nbsp;•&nbsp; <code>Manual QA</code>
-</p>
-
----
-
-<p align="center">
-  <b>💡 Обо мне</b><br>
-  QA Engineer, развиваюсь в направлении автоматизации тестирования на Java.<br>
-  Изучаю и применяю современные инструменты автоматизации UI, API и Mobile-тестирования.<br>
-  Работаю с тестовой документацией, CI/CD и анализом результатов тестирования.
+  <a href="https://t.me/AKaliakbarova">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
+  </a>
+  <a href="mailto:kaliakbarova3009@gmail.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
 </p>
 
 ---
 
-<h2 align="center">🛠 Технологический стек</h2>
+<h2 align="center">💡 Обо мне</h2>
+
+<p align="center">
+  Развиваюсь в направлении автоматизации тестирования на Java.<br>
+  Пишу автотесты для UI, API и Mobile, настраиваю CI/CD и работаю с тестовой документацией.
+</p>
+
+---
+
+<h2 align="center">🛠 Инструменты и стек</h2>
 
 <p align="center">
   <img title="Java" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="40" height="40"/>
@@ -34,19 +39,15 @@
 
 ---
 
-<h2 align="center">🎓 Дипломный проект</h2>
+<h2 align="center">📂 Дипломный проект</h2>
 
-<h3 align="center">
-  <a href="https://github.com/Nurchik3009/swag-labs-qa-automation">🚀 Swag Labs QA Automation</a>
-</h3>
-
-<p align="center">
-  Комплексный фреймворк QA.GURU, объединяющий автоматизацию веб-приложения, мобильного клиента, REST API и блок ручного тестирования.
-</p>
-
-<p align="center">
-  <code>UI</code> &nbsp;•&nbsp; <code>API</code> &nbsp;•&nbsp; <code>Mobile</code> &nbsp;•&nbsp; <code>Manual</code> &nbsp;•&nbsp; <code>Allure TestOps</code> &nbsp;•&nbsp; <code>Jenkins</code>
-</p>
+- **[Swag Labs QA Automation](https://github.com/Nurchik3009/swag-labs-qa-automation)**  
+  *Комплексный дипломный фреймворк QA.GURU:*
+  * 🌐 **UI:** Selenide, JUnit 5, Selenoid
+  * 🔌 **API:** Rest Assured (CRUD тесты сервиса клубов `/api/v1/clubs/`)
+  * 📱 **Mobile:** Appium, BrowserStack (Android)
+  * 📝 **Manual:** Тест-кейсы и интеграция с Allure TestOps
+  * ⚙️ **CI/CD:** Jenkins, Allure Report
 
 ---
 
