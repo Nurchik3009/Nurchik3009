@@ -10,9 +10,8 @@
 
 ---
 
-<h2 align="center">💡 Обо мне</h2>
-
 <p align="center">
+  <b>💡 Обо мне</b><br>
   QA Engineer, развиваюсь в направлении автоматизации тестирования на Java.<br>
   Изучаю и применяю современные инструменты автоматизации UI, API и Mobile-тестирования.<br>
   Работаю с тестовой документацией, CI/CD и анализом результатов тестирования.
@@ -35,14 +34,14 @@
 
 ---
 
-<h2 align="center">🎓 Главный проект (Диплом)</h2>
+<h2 align="center">🎓 Дипломный проект</h2>
 
 <h3 align="center">
   <a href="https://github.com/Nurchik3009/swag-labs-qa-automation">🚀 Swag Labs QA Automation</a>
 </h3>
 
 <p align="center">
-  Комплексный дипломный фреймворк QA.GURU, объединяющий UI (Selenide), API (Rest Assured), Mobile (Appium) и Manual тестирования.
+  Комплексный фреймворк QA.GURU, объединяющий автоматизацию веб-приложения, мобильного клиента, REST API и блок ручного тестирования.
 </p>
 
 <p align="center">
