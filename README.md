@@ -5,12 +5,9 @@
 </p>
 
 <p align="center">
-  <a href="https://t.me/AKaliakbarova">
-    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram"/>
-  </a>
-  <a href="mailto:kaliakbarova3009@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-  </a>
+  <a href="https://t.me/AKaliakbarova"><code>&nbsp;&nbsp;✈️ Telegram&nbsp;&nbsp;</code></a>
+  &nbsp;&nbsp;&nbsp;&nbsp;
+  <a href="mailto:ainur.kaliakbarova@gmail.com"><code>&nbsp;&nbsp;✉️ Email&nbsp;&nbsp;</code></a>
 </p>
 
 ---
