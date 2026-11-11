@@ -1,6 +1,8 @@
-# Привет! Я QA Engineer 👋
+<h1 align="center">Привет! Я QA Engineer 👋</h1>
 
-Java Automation · QA.GURU · Test Automation
+<p align="center">
+  Java Automation · QA.GURU · Test Automation
+</p>
 
 <p align="center">
   <code>UI Testing</code> &nbsp;•&nbsp; <code>API Testing</code> &nbsp;•&nbsp; <code>Mobile Testing</code> &nbsp;•&nbsp; <code>Manual QA</code>
@@ -31,9 +33,11 @@ QA Engineer, развиваюсь в направлении автоматиза
 
 ---
 
-## 🚀 Главный проект — Swag Labs QA Automation
+<h2 align="center">🎓 Дипломный проект — Swag Labs QA Automation</h2>
 
-Комплексный дипломный проект QA.GURU, объединяющий четыре направления тестирования.
+<p align="center">
+  Комплексный дипломный проект QA.GURU, объединяющий четыре направления тестирования.
+</p>
 
 ---
 
@@ -61,8 +65,12 @@ QA Engineer, развиваюсь в направлении автоматиза
 
 ---
 
-## 📊 Инструменты проекта
+<h2 align="center">📊 Инструменты проекта</h2>
 
-Allure Report · Allure TestOps · Jenkins · Jira · Telegram · GitHub
+<p align="center">
+  <code>Allure Report</code> &nbsp;•&nbsp; <code>Allure TestOps</code> &nbsp;•&nbsp; <code>Jenkins</code> &nbsp;•&nbsp; <code>Jira</code> &nbsp;•&nbsp; <code>Telegram</code> &nbsp;•&nbsp; <code>GitHub</code>
+</p>
+
+<br>
 
 <p align="center">Разработано в рамках дипломного проекта QA.GURU | Автор: <b>Ainur Kaliakbarova</b> (@AKaliakbarova)</p>
