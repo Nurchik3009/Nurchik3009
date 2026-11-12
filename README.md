@@ -36,15 +36,20 @@
 
 ---
 
-<h2 align="center">📂 Дипломный проект</h2>
+<h2 align="center">📂 Дипломные проекты</h2>
 
 - **[Swag Labs QA Automation](https://github.com/Nurchik3009/swag-labs-qa-automation)**  
-  *Комплексный дипломный фреймворк QA.GURU:*
-  * 🌐 **UI:** Selenide, JUnit 5, Selenoid
-  * 🔌 **API:** Rest Assured (CRUD тесты сервиса клубов `/api/v1/clubs/`)
+  *Комплексный фреймворк автоматизации для интернет-магазина Swag Labs:*
+  * 🌐 **UI (Web):** Selenide, JUnit 5, Selenoid
   * 📱 **Mobile:** Appium, BrowserStack (Android)
   * 📝 **Manual:** Тест-кейсы и интеграция с Allure TestOps
   * ⚙️ **CI/CD:** Jenkins, Allure Report
+
+- **[Book Club API Automation](https://github.com/Nurchik3009/book-club-api-automation)**  
+  *Изолированный микросервисный фреймворк для тестирования API:*
+  * 🔌 **API:** Rest Assured (CRUD тесты сервиса клубов и авторизации)
+  * 🛡️ **Валидация:** JSON схемы, кастомные Allure-слушатели
+  * ⚙️ **CI/CD:** Отдельная Jenkins-джоба (`ainur_book_club_api`), Allure Report
 
 ---
 
