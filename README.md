@@ -49,7 +49,7 @@
   *Изолированный микросервисный фреймворк для тестирования API:*
   * 🔌 **API:** Rest Assured (CRUD тесты сервиса клубов и авторизации)
   * 🛡️ **Валидация:** JSON схемы, кастомные Allure-слушатели
-  * ⚙️ **CI/CD:** Отдельная Jenkins-джоба (`ainur_book_club_api`), Allure Report
+  * ⚙️ **CI/CD:** Jenkins, Allure Report
 
 ---
 
