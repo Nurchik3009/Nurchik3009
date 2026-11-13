@@ -46,10 +46,11 @@
   * ⚙️ **CI/CD:** Jenkins, Allure Report
 
 - **[Book Club API Automation](https://github.com/Nurchik3009/book-club-api-automation)**  
-  *Изолированный микросервисный фреймворк для тестирования API:*
-  * 🔌 **API:** Rest Assured (CRUD тесты сервиса клубов и авторизации)
-  * 🛡️ **Валидация:** JSON схемы, кастомные Allure-слушатели
-  * ⚙️ **CI/CD:** Jenkins, Allure Report
+  *Автоматизированное тестирование REST API сервиса управления клубами QA.GURU:*
+  - 🌐 **API:** RestAssured (CRUD-тестирование, авторизация, позитивные и негативные сценарии)
+  - 📋 **Validation:** JSON Schema Validator (проверка структуры и корректности JSON-ответов)
+  - ☕ **Java:** Java 17, JUnit 5, Gradle, AssertJ
+  - ⚙️ **CI/CD:** Jenkins, Allure Report, Telegram-уведомления
 
 ---
 
